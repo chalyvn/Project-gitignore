@@ -1,0 +1,7 @@
+# This is comment
+
+# specify a file
+secrets.txt
+
+# all of the files that have a .php extension will be ignored
+*.php
